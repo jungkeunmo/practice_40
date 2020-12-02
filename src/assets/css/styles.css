@@ -1,0 +1,80 @@
+@import "./reset.css";
+
+.box {
+    width: 100%;
+    height: 25px;
+
+    
+}
+
+.add {
+    width: 100%;
+    height: 100px;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.add .add__col1 {
+    width: 10%;
+    height: 100px;
+
+    
+}
+
+.add .add__col2 {
+    width: 80%;
+    height: 100px;
+
+    background-color: lime;
+}
+
+.add .add__col3 {
+    width: 10%;
+    height: 100px;
+
+    
+}
+
+.app {
+    width: 100%;
+    height: 50px;
+
+   
+}
+
+.screen {
+    width: 100%;
+    height: 400px;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.screen .screen__sec1 {
+    width: 10%;
+    height: 400px;
+
+    
+}
+
+.screen .screen__sec2 {
+    width: 80%;
+    height: 400px;
+
+    background-color: paleturquoise;
+}
+
+.screen .screen__sec3s {
+    width: 10%;
+    height: 400px;
+
+    
+}
+
+.pug {
+    width: 100%;
+    height: 50px;
+
+    
+}
